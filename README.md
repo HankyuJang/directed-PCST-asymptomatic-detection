@@ -18,7 +18,7 @@ tdqm
 
 ## Data
 
-We provide synthetic data. Place the files in `data/` directory.
+We provide synthetic data in the `data/` directory.
 All the necessary information is saved as node attributes and edge attributes in the graph.
 ```
 data/G_synthetic_step2_beta1_x1_v3.graphml
@@ -63,3 +63,14 @@ python EXP1_barchart.py
 python EXP1_linegraph.py
 ```
 
+## Cite
+Please cite our paper if you use the code or the dataset.
+```
+@inproceedings{jang2021directedPCST,
+  title={Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases},
+  author={Jang, Hankyu and Pai, Shreyas and Adhikari, Bijaya and Pemmaraju, Sriram V.},
+  booktitle={2021 IEEE International Conference on Data Mining (ICDM)},
+  year={2021},
+  organization={IEEE}
+}
+```
