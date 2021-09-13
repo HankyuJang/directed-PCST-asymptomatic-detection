@@ -1,5 +1,7 @@
 # Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases
 
+__Paper__: H. Jang, S. Pai, B. Adhikari, S.V. Pemmaraju, "Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases," _2021 IEEE International Conference on Data Mining (ICDM)_, 2021.
+
 ## Software
 
 We use Python3. Install the following Python libraries:
