@@ -1,6 +1,8 @@
 # Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases
 
-__Paper__: H. Jang, S. Pai, B. Adhikari, S.V. Pemmaraju, "Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases," _2021 IEEE International Conference on Data Mining (ICDM)_, 2021.
+__Conference Paper__: H. Jang, S. Pai, B. Adhikari, S.V. Pemmaraju, "Risk-aware Temporal Cascade Reconstruction to Detect Asymptomatic Cases," _IEEE International Conference on Data Mining (ICDM)_, 2021
+
+__Journal Paper__: H. Jang, S. Pai, B. Adhikari, S.V. Pemmaraju, "Risk-aware temporal cascade reconstruction to detect asymptomatic cases." _Knowledge and Information Systems (KAIS)_, 2022
 
 ## Software
 
